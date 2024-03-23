@@ -7,8 +7,8 @@ The chat data was exported from WhatsApp and analyzed using Python programming l
 
 Analysis Findings:
 
-Chat Overview: The chat consists of 488 messages exchanged between 5 participants over a period of 3 months.
-Message Frequency: Message frequency varied over time, with peaks during weekends and evenings.
+Chat Overview: The chat consists of 488 messages exchanged between  participants over a period of 3 years.
+Message Frequency: Message frequency varied over time, with peaks during the starting months of 2023.
 Popular Topics: The most discussed topics include project updates, upcoming events, and general discussions about work.
 Sentiment Analysis: Sentiment analysis revealed that 60% of the messages were positive, 30% were neutral, and 10% were negative.
 
